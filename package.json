@@ -1,0 +1,23 @@
+{
+  "name": "testable-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franSborges/node-testable-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franSborges/node-testable-app/issues"
+  },
+  "homepage": "https://github.com/franSborges/node-testable-app#readme",
+  "devDependencies": {
+    "eslint": "^8.48.0"
+  }
+}
